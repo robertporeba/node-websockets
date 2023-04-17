@@ -1,3 +1,11 @@
 # node-websockets
 
-Chat build with websocket technology and javascript language. 
+> Chat based on websockets.
+
+## Technologies
+- Node
+- Javascript
+- Websockets
+
+
+
